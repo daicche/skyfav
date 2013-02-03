@@ -5,7 +5,7 @@ URLスキームやらapplescriptやらSQLやらでゴリ押ししてます
 twitter の公式クライアントアプリをインストールしている場合はskypeのメッセージをそのまま呟くこともできるはず
 
 ##使い方
-1. `skyfav.app`を `/Applications/` に移動
+1. `skyfav.app`を `/Applications/` に移動(実行しなくておｋ)
 2. `Skyfav.SkypeChatStyle`を実行
 3. skypeの設定( Messaging > Style )で`Skyfav`を指定
 4. Skypeを再起動
