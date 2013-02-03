@@ -2,6 +2,8 @@ skypeのメッセージをふぁぼれるすごいやつです。(mac限定で�
 
 URLスキームやらapplescriptやらSQLやらでゴリ押ししてます
 
+twitter の公式クライアントアプリをインストールしている場合はskypeのメッセージをそのまま呟くこともできるはず
+
 ##使い方
 1. `skyfav.app`を `/Applications/` に移動
 2. `Skyfav.SkypeChatStyle`を実行
