@@ -1,4 +1,8 @@
+##概要
+
 skypeのメッセージをふぁぼれるすごいやつです(mac限定ですごめんなさい)
+
+![skyfav](http://dl.dropbox.com/u/31377211/Bloodrop/skyfav.png "skyfav")
 
 - `favrite`ボタンを押すとそのメッセージが保存されるだけでなく、skype上で相手に通知
 - `tweet`ボタンを押すとskypeのメッセージをそのままツイートすることもできる(twitterの公式クライアントアプリをインストールしている場合のみ)
